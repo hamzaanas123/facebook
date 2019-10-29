@@ -25,7 +25,7 @@ SECRET_KEY = '5maoceo)b-w$h#k*hi+wy*!7xujgjryy#$k^u1otocxiu9w^x('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [hamza-facebook.herokuapp.com]
+ALLOWED_HOSTS = ['hamza-facebook.herokuapp.com']
 
 
 # Application definition
